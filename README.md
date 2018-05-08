@@ -1,6 +1,4 @@
-# shader_presentation
-
-Derivschool - Shaders WebGL v1.0 - 18-04-2018 DERIVCO ESTONIA
+# Derivschool - Shaders WebGL v1.0 - 18-04-2018 DERIVCO ESTONIA
 
 - presentation folder
       - the presentation slides about shaders in WebGL v1.0
